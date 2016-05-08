@@ -1,0 +1,470 @@
+{
+  "basics":{
+    "name": "Vid Rowan",
+    "label": "Web Application Developer",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location" :{
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "state": "",
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": "",
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": "",
+      }
+    ]
+  },
+  "work": [
+    {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON",
+        "JSX",
+        "XML",
+        "jQuery",
+        "OpenLayers",
+        "React",
+        "PHP",
+        "Python",
+        "Sass",
+        "SOAP",
+        "ColdFusion",
+        "actionScript",
+        "Flash",
+        "MSSQL",
+        "MySQL",
+        "Oracle SQL",
+        "Drupal",
+        "Django",
+        "PHP MVC",
+        "WordPress",
+        "Apache",
+        "IIS",
+        "NGINX",
+        "Bash",
+        "Docker",
+        "Drush (Drupal Shell)",
+        "Git",
+        "Makefiles"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "keywords": [
+    {
+      "name": "HTML",
+      "type": "Client-side Programming Language",
+      "level": "Master",
+      "years": "18",
+      "notes": [],
+      "delta": -20,
+      "keywords": []
+    },
+    {
+      "name": "actionScript",
+      "type": "Client-side Programming Language",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": -15,
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "type": "Client-side Programming Language",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": -10,
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "type": "Client-side Programming Language",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": -5,
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "type": "Client-side Programming Language",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 0,
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "type": "Client-side Programming Language",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 5,
+      "keywords": []
+    },
+    {
+      "name": "JSX",
+      "type": "Client-side Programming Language",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 10,
+      "keywords": []
+    },
+    {
+      "name": "XML",
+      "type": "Client-side Programming Language",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 13      ,
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "type": "DevOps",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 15,
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "type": "DevOps",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 20,
+      "keywords": []
+    },
+    {
+      "name": "Drush (Drupal Shell)",
+      "type": "DevOps",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 25,
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "type": "DevOps",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 30,
+      "keywords": []
+    },
+    {
+      "name": "Makefiles",
+      "type": "DevOps",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 35      ,
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "type": "Frameworks",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 40,
+      "keywords": []
+    },
+    {
+      "name": "Drupal",
+      "type": "Frameworks",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 45,
+      "keywords": []
+    },
+    {
+      "name": "PHP MVC",
+      "type": "Frameworks",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 50,
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "type": "Frameworks",
+      "level": "",
+      "years": "",
+      "notes": []
+      "delta": 55      ,
+      "keywords": []
+    },
+    {
+      "name": "BitBucket",
+      "type": "Git Servers",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 60,
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
+      "type": "Git Servers",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 65,
+      "keywords": []
+    },
+    {
+      "name": "GitLab",
+      "type": "Git Servers",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 70,
+      "keywords": []
+    },
+    {
+      "name": "Gitosis",
+      "type": "Git Servers",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 75,
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "type": "JavaScript Libraries",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 80,
+      "keywords": []
+    },
+    {
+      "name": "OpenLayers",
+      "type": "JavaScript Libraries",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 85,
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "type": "JavaScript Libraries",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 90,
+      "keywords": []
+    },
+    {
+      "name": "ColdFusion",
+      "type": "Server-side Programming Languages",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 95,
+      "keywords": []
+    },
+    {
+      "name": "Flash",
+      "type": "Server-side Programming Languages",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 100,
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "type": "Server-side Programming Languages",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 105,
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "type": "Server-side Programming Languages",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 110,
+      "keywords": []
+    },
+    {
+      "name": "Sass",
+      "type": "Server-side Programming Languages",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 115,
+      "keywords": []
+    },
+    {
+      "name": "SOAP",
+      "type": "Server-side Programming Languages",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 120      ,
+      "keywords": []
+    },
+    {
+      "name": "MSSQL",
+      "type": "Databases",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 125,
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "type": "Databases",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 130,
+      "keywords": []
+    },
+    {
+      "name": "Oracle",
+      "type": "Databases",
+      "level": "",
+      "years": "",
+      "notes": [""],
+      "delta": 135    ,
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "type": "Databases",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 140      ,
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "type": "Servers",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 145,
+      "keywords": []
+    },
+    {
+      "name": "IIS",
+      "type": "Servers",
+      "level": "",
+      "years": "",
+      "notes": [],
+      "delta": 150,
+      "keywords": []
+    },
+    {
+      "name": "NGINX",
+      "type": "Servers",
+      "level": "Beginner",
+      "years": "2",
+      "notes": [
+        "Assisted in implementation of NGINX for use a home-grown enterprise applicant management system. NGNIX was the solution to an Apache limitation which creates a 'bottle-neck' when delivering files in Apache.",
+        "NGINX scales well when delivery of many large PDF files simultaneously is required.",
+        "Installed NGINX in a Docker container leveraged via an Apache vhost Proxy."
+      ],
+      "delta": 155,
+      "keywords": [
+        "Docker",
+        "Apache"
+      ]
+    }
+  ]
+}
